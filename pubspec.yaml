@@ -1,11 +1,15 @@
 name: app_activity_trace
 description: "A Flutter package to track user activities and report errors."
-version: 0.0.1
+version: 0.0.2+2
 homepage: https://phixlab.com/sdks/flutter_analytic_tracer
+repository: https://github.com/phixlab-system/user_activity_tracker
+issue_tracker: https://github.com/phixlab-system/user_activity_tracker/issues
+
+
 
 environment:
-  sdk: '>=3.2.3 <4.0.0'
-  flutter: ">=1.17.0"
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=2.0.0"
 
 dependencies:
   flutter:
